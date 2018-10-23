@@ -1,0 +1,59 @@
+1. Escribir algoritmos
+2. -Es ordenado
+-Tiene en cuenta las capacidades de quien lo vaya a ejecutar
+-Cuenta con varias versiones para resolver el problema
+-Debe terminar
+3. Si, porque es una serie de pasos que tienen un orden específico 
+4. Porque necesitamos que la computadora entienda en su idioma las instrucciones que le mandamos
+
+I.
+
+5. Algoritmo para preparar:
+-Un mojito
+Ingredientes:
+-1 cuchara
+-1 cuchillo
+-1 vaso
+-2 ramas de yerbabuena
+-Azúcar
+-1 limón
+-Ron blanco
+-Hielo
+-Agua mineral
+
+1. cortar con el cuchillo el limón a la mitad y exprimirlo en el vaso
+2. agregar dos cucharadas de azúcar y mezclar
+3. agregar las hojas de yerbabuena en el vaso y estrujarlas suavemente
+4. poner el hielo en el vaso hasta la mitad o menos
+5. añadir el agua mineral hasta llenar unos 2/3 del vaso
+6. añadir el ron al gusto
+7. mezclar todo bien con una cuchara
+
+-Dibujar un hexágono regular de 10 cms de radio 
+Materiales
+-lápiz
+-compás
+-1 hoja de papel
+-regla
+-transportador 
+
+1. tomar el compás y abrir las patitas de modo que entre las dos midan 5 cm
+2. trazar el círculo con el compás en la hoja de papel
+3. con el transportador, medir con el compás 60º de abertura
+4. dirigirte al centro del círculo y trazar con el compás 6 líneas cada 60º
+5. ya que tienes todos los puntos marcados gracias al compás, unir todos los puntos
+
+-Encontrar el número más grande de una lista de 10 números
+
+1. Hacer una lista de diez números
+2. Comparar el primer número con todos los números de la lista
+ 2.1 Si el segundo número de la lista sigue siendo más chico que el primero, el proceso continua
+3. 
+
+
+III. Sí
+IV.
+
+
+
+
